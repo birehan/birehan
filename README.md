@@ -7,17 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=birehan&label=Profile%20views&color=0e75b6&style=flat" alt="birehan" /> </p>
 
-- 🔭 I’m currently working on [Hope For Children](https://github.com/birehan/Hope-For-Children)
-
-- 🌱 I’m currently learning **Data Science**
-
-- 👨‍💻 All of my projects are available at [https://birehan.com](https://birehan.com)
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **React, MERN, .Net**
 
 - 📫 How to reach me **birehananteneh4@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DZMWJG6QaQmfsj8Y_IYcbV5RINkbOfX8/view?usp=share_link](https://drive.google.com/file/d/1DZMWJG6QaQmfsj8Y_IYcbV5RINkbOfX8/view?usp=share_link)
 
 - ⚡ Fun fact **Time flies when I'm programming and I love it.**
 
