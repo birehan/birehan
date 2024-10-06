@@ -1,15 +1,13 @@
 [![MasterHead](https://github.com/birehan/birehan/blob/main/assets/gotchas-git-github-banner-1.png)](https://birehan.com)
 
 <h1 align="center">Hi 👋, I'm Birehan Anteneh</h1>
-<h3 align="center">Software Engineer | Machine Learning Engineer | Frontend Developer | Competitive Programmer | MERN Stack Developer | DotNet Developer</h3>
+<h3 align="center">Generative AI Engineer | Machine Learning Engineer | Competitive Programmer</h3>
 
 <img  align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=birehan&label=Profile%20views&color=0e75b6&style=flat" alt="birehan" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 💬 Ask me about **Data Science, React, MERN, .Net**
+- 💬 Ask me about **Generative AI, Machine Learning, Full-Stack Development**
 
 - 📫 How to reach me **birehananteneh4@gmail.com**
 
